@@ -10,7 +10,7 @@ following the processes outlined below:
 ## R Package Installation
 ```R
 if(!require(devtools)) install.packages("devtools") # If not already installed
-devtools::install_github("KlugerLab/oocPCA")
+devtools::install_github("KlugerLab/oocPCA/oocRPCA")
 ```
 
 OR:
